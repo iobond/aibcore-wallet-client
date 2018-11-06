@@ -2,7 +2,7 @@
   "name": "aibcore-wallet-client",
   "description": "Client for aibcore-wallet-service",
   "author": "AIB Dev <dev@aib.one>",
-  "version": "6.7.7",
+  "version": "6.7.8",
   "license": "MIT",
   "keywords": [
     "aibcoin",
